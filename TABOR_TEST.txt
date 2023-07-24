@@ -1,0 +1,345 @@
+2022-05-18 15:18:49.461927
+********PRESENTATION DES VALEURS  ******* 
+
+2000000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 0.25ns 
+************TABOR FINISHED ************** 
+2022-05-18 16:06:58.452637
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 250000.00ns 
+Frequence de 0.004MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 1.2ns 
+************TABOR FINISHED ************** 
+2022-05-18 20:00:27.921349
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 5000000.00ns 
+Frequence de 0.0002MHz 
+Signal à 1pts en 5e+01ns 
+************TABOR FINISHED ************** 
+2022-05-18 20:01:54.539098
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-05-20 14:29:57.747483
+********PRESENTATION DES VALEURS  ******* 
+
+800pts dans un  Periode de T= 200.00ns 
+Frequence de 5.0MHz 
+Signal à 1pts en 0.25ns 
+************TABOR FINISHED ************** 
+2022-05-20 14:38:52.845931
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 4000.00ns 
+Frequence de 0.25MHz 
+Temps Gating tg = 4e+02ns 
+Signal à 1pts en 2.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:49:15.364194
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 200000.00ns 
+Frequence de 0.005MHz 
+Temps Gating tg = 1e+04ns 
+Signal à 1pts en 1e+01ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:50:31.013833
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 20000.00ns 
+Frequence de 0.05MHz 
+Temps Gating tg = 1e+03ns 
+Signal à 1pts en 1.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:51:48.594678
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 20000.00ns 
+Frequence de 0.05MHz 
+Temps Gating tg = 1e+03ns 
+Signal à 1pts en 1.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:52:09.567599
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 2000.00ns 
+Frequence de 0.5MHz 
+Temps Gating tg = 1e+02ns 
+Signal à 1pts en 0.1ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:53:58.943205
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 200.00ns 
+Frequence de 5.0MHz 
+Temps Gating tg = 1e+01ns 
+Signal à 1pts en 0.01ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:55:38.808437
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 2000.00ns 
+Frequence de 0.5MHz 
+Temps Gating tg = 1e+02ns 
+Signal à 1pts en 0.1ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:58:09.787036
+********PRESENTATION DES VALEURS  ******* 
+
+10000pts dans un  Periode de T= 50000.00ns 
+Frequence de 0.02MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 10:59:36.912287
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:03:55.303308
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 2000.00ns 
+Frequence de 0.5MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 0.1ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:06:02.720860
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 2000000.00ns 
+Frequence de 0.0005MHz 
+Temps Gating tg = 1e+05ns 
+Signal à 1pts en 1e+02ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:07:54.148026
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 2000000.00ns 
+Frequence de 0.0005MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 1e+02ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:10:52.051757
+********PRESENTATION DES VALEURS  ******* 
+
+10000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Signal à 1pts en 1e+02ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:15:24.159601
+********PRESENTATION DES VALEURS  ******* 
+
+20000pts dans un  Periode de T= 200000.00ns 
+Frequence de 0.005MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 1e+01ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:38:02.525934
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Temps Gating tg = 0.0ns 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-21 11:56:48.728006
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Temps Gating tg = 5e+04ns 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 10:56:48.481710
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Temps Gating tg = 5e+04ns 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:07:49.574138
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Temps Gating tg = 5e+04ns 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:31:39.824200
+********PRESENTATION DES VALEURS  ******* 
+
+10000pts dans un  Periode de T= 50000.00ns 
+Frequence de 0.02MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:35:32.118273
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:38:35.476749
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:38:55.812791
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:41:58.324830
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:43:05.908863
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:45:18.025036
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:45:51.542463
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:47:08.561328
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:48:59.706144
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 11:50:07.304171
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 12:00:20.670934
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 12:01:32.317159
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 12:02:03.053112
+********PRESENTATION DES VALEURS  ******* 
+
+100000pts dans un  Periode de T= 500000.00ns 
+Frequence de 0.002MHz 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-06-23 12:04:09.981969
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 18181.82ns 
+Frequence de 0.055MHz 
+Temps Gating tg = 1.8e+01ns 
+Signal à 1pts en 0.091ns 
+************TABOR FINISHED ************** 
+2022-06-23 12:04:29.702729
+********PRESENTATION DES VALEURS  ******* 
+
+200000pts dans un  Periode de T= 1000000.00ns 
+Frequence de 0.001MHz 
+Temps Gating tg = 5e+04ns 
+Signal à 1pts en 5.0ns 
+************TABOR FINISHED ************** 
+2022-10-19 14:14:23.933318
+********PRESENTATION DES VALEURS  ******* 
+
+4000pts dans un  Periode de T= 32000.00ns 
+Frequence de 0.031MHz 
+Temps Gating tg = 8e+02ns 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
+2022-10-19 14:14:58.012234
+********PRESENTATION DES VALEURS  ******* 
+
+4000pts dans un  Periode de T= 32000.00ns 
+Frequence de 0.031MHz 
+Temps Gating tg = 8e+03ns 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
+2022-10-19 14:15:37.917008
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 16000.00ns 
+Frequence de 0.062MHz 
+Temps Gating tg = 4e+03ns 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
+2022-10-19 14:48:30.346556
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 16000.00ns 
+Frequence de 0.062MHz 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
+2022-10-19 17:15:39.671896
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 16000.00ns 
+Frequence de 0.062MHz 
+Temps Gating tg = 1.2e+03ns 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
+2022-10-20 15:19:23.977617
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 32000.00ns 
+Frequence de 0.031MHz 
+Signal à 1pts en 1.6e+01ns 
+************TABOR FINISHED ************** 
+2022-12-01 15:48:47.104705
+********PRESENTATION DES VALEURS  ******* 
+
+2000pts dans un  Periode de T= 16000.00ns 
+Frequence de 0.062MHz 
+Signal à 1pts en 8.0ns 
+************TABOR FINISHED ************** 
