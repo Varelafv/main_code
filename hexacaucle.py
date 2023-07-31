@@ -62,3 +62,4 @@ print(max(New_table),min(New_table))
 plt.plot(t2,DATA_square0_2000,t2,New_table)
 plt.grid()
 plt.show()
+#
