@@ -38,11 +38,14 @@ DATA_square0_2000=[16382,16382,16382,16382,16382,16382,16382,16382,16382,16382,1
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 ]
 New_table=[]
-t2 = np.linspace(0, 1, 2000, endpoint=True)
-Amp=0.7#V
+A=[]
+t2 = np.linspace(0, 1, 1000, endpoint=True)
+Amp=0.3#V
 Ref_zero=8192
 Ref_max=16382
+offs=0.3;
 value = int(round(Amp*8190))
+offset= int(round(offs*8190))
 max_v= value + Ref_zero
 min_v= Ref_zero-value
 Diff=(max_v-min_v)
@@ -53,13 +56,21 @@ print("Hexadécimal 16-bit sans préfixe:", resultat_hexadecimal)
 print("Min : ", min_v)
 print("Max : ", max_v)
 
-for i in DATA_square0_2000:
-#for i in DATA_sinus:
+#for i in DATA_square0_2000:
+for i in DATA_sinus:
     X=int(round((i*Diff)/Ref_max + min_v))
+    A.append(int(round((i * Diff) / Ref_max + min_v)+offset ))
     New_table.append(X)
-print(max(New_table),min(New_table))
+print(max(A),min(A))
 #plt.plot(t2,DATA_sinus,t2,New_table)
-plt.plot(t2,DATA_square0_2000,t2,New_table)
+plt.plot(t2,A,t2,New_table)
+
+print("offset :",offset)
+print(New_table)
+print(A)
+y_value = 8192
+plt.axhline(y=8192, color='red', linestyle='--', label='Ligne constante')
+plt.axhline(y=16382, color='blue', linestyle='--', label='Ligne constante')
 plt.grid()
 plt.show()
 #

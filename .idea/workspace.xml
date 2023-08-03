@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d2821f1-2141-4943-af78-99b0c33babb7" name="Changes" comment="--New amplitude in python">
+    <list default="true" id="8d2821f1-2141-4943-af78-99b0c33babb7" name="Changes" comment="--New amplitude in python 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hexacaucle.py" beforeDir="false" afterPath="$PROJECT_DIR$/hexacaucle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690820736983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="--New amplitude in python">
+      <created>1690821220631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690821220631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="--New amplitude in python 2">
+      <created>1690821244388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690821244388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="--New amplitude in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="--New amplitude in python" />
+    <MESSAGE value="--New amplitude in python 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="--New amplitude in python 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,6 +179,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>41</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hexacaucle.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
